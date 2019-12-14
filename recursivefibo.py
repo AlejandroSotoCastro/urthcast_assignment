@@ -1,7 +1,3 @@
-de
-
-
-
 
 f fibo(n):#Using recursive functions.
 	if n==0:
